@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/zzr-vue-components-1/',
   title: 'ZZR 组件',
   description: 'Just playing around',
   themeConfig: {
